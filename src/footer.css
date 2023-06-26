@@ -1,0 +1,149 @@
+/*.footer1{
+    padding-top: 1000px;
+    padding-left:0px;
+  }
+  .footer2{
+    padding-left:650px;
+  }
+  
+  .footer3{
+    padding-left: 1180px;
+  }*/
+  /*.footer{
+  padding-top: 200px;
+  display: flex;
+  justify-content: space-around;
+  padding-bottom: 10px;
+  
+}*/
+.ft1{
+  background-image: url(https://www.digisailor.com/assets/img/circle-map.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.ft1{
+  margin-top: 300px;
+  padding-right: 0%;
+  background-color: white;
+ /* background-color: rgb(219, 228, 240);*/
+  padding-bottom: 0px;
+  height: 400px;
+  display: flex;
+  gap: 10em;
+  font-family: 'Rockwell';
+}
+.icons{
+  display: flex;
+  gap: 1.5em;
+}
+.icons :hover{
+    color:#4AC728;
+    
+}
+
+.co1{
+  padding-top: 100px;
+  padding-left: 109px;
+ }
+
+.co2{
+  padding-top: 100px;
+  
+}
+.co2 #t1{
+  color: black;
+  text-decoration: underline;
+  text-transform: uppercase;
+ }
+.co2 :link{
+  text-decoration: none;
+  
+}
+.co2 :hover{
+  text-decoration: none;
+  color: green;
+}
+
+
+.co3{
+  padding-top: 100px;
+}
+.co3 #u1{
+  color: black;
+  text-decoration: underline;
+  text-transform: uppercase;
+ }
+.co3 :link{
+  text-decoration: none;
+  
+  
+}
+.co3 :hover{
+  text-decoration: none;
+  color: green;
+}
+
+
+.co4{
+  padding-top: 100px;
+  
+}
+.co4 #j1{
+  color: black;
+  text-decoration:underline;
+  text-transform: uppercase;
+}
+.co4 :link{
+  text-decoration: none;
+}
+.co4 link:hover{
+  text-decoration: none;
+  color:green;
+}
+.co4 #o1 :hover{
+  color: green;
+}
+.co4 #o2 :hover{
+  color: green;
+}
+#k1{
+  display: flex;
+}
+#k2{
+  display: flex;
+}
+ .ft2{
+  margin-top: 0.9px;
+ /* background-color: rgb(219, 228, 240);*/
+ background-color: #a1f18a;
+  height: 60px;
+  text-align: center;
+  padding-left: 109px;
+  padding-top:5px;                            /* rgb(172, 201, 238)*/
+  display: flex;
+  gap: 7.5em;
+}
+.footer1{
+  font-family: 'castellar';
+  font-size: 17x;
+  font-weight: bold;
+  float: left;
+  padding-top: 21px;
+  
+  
+}
+.footer2{
+  font-family: 'castellar';
+  font-size: 17px;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 21px;
+}
+.footer3{
+  font-family: 'castellar';
+  font-size: 17px;
+  font-weight: bold;
+  padding-top: 21px;
+  float: right;
+}
+

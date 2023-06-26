@@ -1,0 +1,213 @@
+#h1{
+    text-align: center;
+}
+.container3{
+    display: flex;
+    gap: 0.2em;
+    padding-left: 700px;
+    text-decoration: none;
+    font-family:'Rockwell';
+}
+.container3 :link{
+    text-decoration: none;
+}
+.container3 :hover{
+    color: green;
+    text-decoration: none;
+}
+.container3 :active{
+    color: pink;
+    text-decoration: none;
+}
+.container3 #p{
+    color: black;
+}
+
+.container0{
+    display: flex;
+    gap: 4em;
+}
+.con1 img{
+    padding-left: 300px;
+}
+.con2{
+    padding-right: 340px;
+    text-align: justify;
+    font-family: "Rockwell";
+}
+.con2 div-1{
+    font-weight: bold;
+    color: black;
+}
+.con2 :link{
+    text-decoration: none;
+    font-weight: bold;
+}
+.con2 :hover{
+    color: green;
+}
+.con2 :active{
+    color: pink;
+}
+#q1, #q2{
+    color: black;
+}
+
+.container01{
+    display: flex;
+    gap: 4em;
+}
+.con3 img{
+    padding-left: 300px;
+}
+.con4{
+    padding-right: 340px;
+    text-align: justify;
+    font-family: "Rockwell";
+}
+.con4 div-5{
+    font-weight: bold;
+    color: black;
+}
+.con4 :link{
+    text-decoration: none;
+    font-weight: bold;
+}
+.con4 :hover{
+    color: green;
+}
+.con4 :active{
+    color: pink;
+}
+#q3, #q4{
+    color: black;
+}
+
+.container02{
+    display: flex;
+    gap: 4em;
+}
+.con5 img{
+    padding-left: 300px;
+}
+.con6{
+    padding-right: 340px;
+    text-align: justify;
+    font-family: 'Rockwell';
+}
+.con6 div-9{
+    font-weight: bold;
+    color: black;
+}
+.con6 :link{
+    text-decoration: none;
+    font-weight: bold;
+}
+.con6 :hover{
+    color: green;
+}
+.con6 :active{
+    color: pink;
+}
+#q5, #q6{
+    color: black;
+}
+
+.container03{
+    display: flex;
+    gap: 4em;
+}
+.con7 img{
+    padding-left: 300px;
+}
+.con8{
+    padding-right: 340px;
+    text-align: justify;
+    font-family: 'Rockwell';
+}
+.con8 div-13{
+    font-weight: bold;
+    color: black;
+}
+.con8 :link{
+    text-decoration: none;
+    font-weight: bold;
+}
+.con8 :hover{
+    color: green;
+}
+.con8 :active{
+    color: pink;
+}
+#q7, #q8{
+    color: black;
+}
+
+.container04{
+    display: flex;
+    gap: 4em;
+}
+.con9 img{
+    padding-left: 300px;
+}
+.con10{
+    padding-right: 340px;
+    text-align: justify;
+    font-family: 'Rockwell';
+}
+.con10 div-17{
+    font-weight: bold;
+    color: black;
+}
+.con10 :link{
+    text-decoration: none;
+    font-weight: bold;
+}
+.con10 :hover{
+    color: green;
+}
+.con10 :active{
+    color: pink;
+}
+#q9, #q10{
+    color: black;
+}
+
+
+.container05{
+    display: flex;
+    gap: 4em;
+}
+.con11 img{
+    padding-left: 300px;
+}
+.con12{
+    padding-right: 340px;
+    text-align: justify;
+    font-family: 'Rockwell';
+}
+.con12 div-21{
+    font-weight: bold;
+    color: black;
+}
+.con12 :link{
+    text-decoration: none;
+    font-weight: bold;
+}
+.con12 :hover{
+    color: green;
+}
+.con12 :active{
+    color: pink;
+}
+#q11, #q12{
+    color: black;
+}
+
+
+
+ 
+
+
+
+   

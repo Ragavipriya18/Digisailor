@@ -1,0 +1,54 @@
+.header img{
+    padding:10px 10px;
+    box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+}
+.nav{
+    display: flex;
+}
+.menu{
+    padding-left: 90px;
+    padding-top: 10px;
+}
+    
+body{
+    margin: 0;
+    padding: 0;
+    
+    font-family: Arial;
+}
+.menus ul{
+    list-style: none;
+    padding: 0;
+    margin:0;
+    text-align: center;
+
+
+    
+}
+.menus li{
+    display: inline-block;
+}
+.menus .c,.a,.s,.w,.ca,.co,.o{
+    text-decoration: none;
+    color: #30322f;
+    width:100px;
+    display: block;
+    padding: 25px 20px;
+    font-size: 16px;
+    text-align: center;
+    font-weight: bold;
+    cursor:alias;
+    
+}
+
+.menus :hover{
+    color:#4AC728;
+    
+}
+.menus :active{
+    color: pink;
+}
+
+
+
+

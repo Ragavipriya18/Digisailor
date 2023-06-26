@@ -1,0 +1,124 @@
+#h1{
+    text-align: center;
+}
+.container5{
+    display: flex;
+    gap: 0.2em;
+    padding-left: 680px;
+    text-decoration: none;
+    font-family:'Rockwell';
+}
+.container5 :link{
+    text-decoration: none;
+}
+.container5 :hover{
+    color: green;
+    text-decoration: none;
+}
+.container5 :active{
+    color: pink;
+    text-decoration: none;
+}
+.container5 #u{
+    color: black;
+}
+.w1{
+    display: flex;
+}
+.wrapper1 img{
+    max-width: 250px;
+    padding-left: 300px;
+    float: left;
+
+}
+.wrapper2 h2{
+    color:black;
+    font-family: 'book antique';
+    font-size: 28px;
+    padding-left: 600px;
+
+}
+.wrapper2 p{
+    padding-left: 600px;
+    padding-right: 300px;
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(2, 2, 2);
+    font-size: 19px;
+}
+.division{/*d5ddd3ea*/
+    
+    padding-left: 700px;
+}
+#div1{
+    background-color: lightskyblue;
+    width:33.33%;
+    height: 25px;
+    text-align: center;
+    text-shadow: 2px;
+}
+.btn1{
+    float: left;
+    align-items:justify;
+    height: 25px;
+    width: 30px;
+    cursor: grab;
+}
+#div2{
+    background-color: lightskyblue;
+    width:33.33%;
+    height: 25px;
+    text-align: center;
+    text-shadow: 2px;
+    
+}
+.btn2{
+    float: left;
+    align-items:justify;
+    height: 25px;
+    width: 30px;
+    cursor: grab;
+}
+#div3{
+    background-color: lightskyblue;
+    width:33.33%;
+    height: 25px;
+    text-align:center;
+    text-shadow: 2px;
+}
+.btn3{
+    float: left;
+    align-items:justify;
+    height: 25px;
+    width: 30px;
+    cursor: grab;
+}
+#last {
+    text-align: justify;
+    padding-left: 40px;
+    padding-right: 200px;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    color:black;
+
+}
+#last1 {
+    text-align: justify;
+    padding-left: 40px;
+    padding-right: 200px;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+
+}
+#last2 {
+    text-align: justify;
+    padding-right: 100px;
+    padding-left: 740px;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+
+}
+
+

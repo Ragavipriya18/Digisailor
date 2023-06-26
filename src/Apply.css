@@ -1,0 +1,95 @@
+#h1{
+    text-align: center;
+}
+.container6{
+    display: flex;
+    gap: 0.2em;
+    padding-right: 715px;
+    text-decoration: none;
+    font-family:'Rockwell';
+}
+.container6 :link{
+    text-decoration: none;
+}
+.container6 :hover{
+    color: green;
+    text-decoration: none;
+}
+.container6 :active{
+    color: pink;
+    text-decoration: none;
+}
+.container6 #app{
+    color: black;
+}
+.form{
+    text-align: center;
+    
+}
+label-1{
+    padding-right: 610px;
+}
+label-2{
+    padding-right: 610px;
+}
+label-3{
+    padding-right: 600px;
+}
+label-4{
+    padding-right: 580px;
+}
+label-5{
+    padding-right: 590px;
+}
+label-6{
+    padding-right: 590px;
+}
+label-7{
+    padding-right: 590px;
+}
+#f1 input{
+    padding-right: 480px;
+    height: 40px;
+    
+}
+#f2 input{
+    padding-right: 480px;
+    height: 40px;
+    
+}
+#f3 select{
+    padding-right: 550px;
+    height: 50px;
+    
+}
+
+#f4 input{
+    padding-right: 550px;
+    height: 40px;
+    
+}
+#f5 input{
+    padding-right: 480px;
+    height: 40px;
+    
+}
+#f6 input{
+    padding-right: 395px;
+    height: 40px;
+  
+}
+#f7 input{
+    padding-right: 480px;
+    height: 40px;
+   
+}
+#f8 button{
+    margin-left: 372px;
+    margin-right: 926px;
+    background-color: rgb(162, 230, 241);
+    border: 2px black;
+    border-style:dotted;
+    border-radius: 2px;
+    padding: 5px;
+    cursor:grab;
+}

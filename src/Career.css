@@ -1,0 +1,407 @@
+#h1{
+    padding-left: 550px;
+    padding-right: 550px;
+}
+.container4{
+    display: flex;
+    gap: 0.2em;
+    padding-left: 700px;
+    text-decoration: none;
+    font-family:'Rockwell';
+}
+.container4 :link{
+    text-decoration: none;
+}
+.container4 :hover{
+    color: green;
+    text-decoration: none;
+}
+.container4 :active{
+    color: pink;
+    text-decoration: none;
+}
+.container4 #car{
+    color: black;
+}
+.division1{
+    display: flex;
+}
+.wrap1 img{
+    max-width: 400px;
+    padding-left: 250px;
+    float: left;
+}
+.wrap2{
+    align-content: center;
+    padding-left: 70px;
+    padding-right: 200px;
+    text-align: justify;
+}
+.wrap2 div-1{
+    font-size: 22px;
+    font-weight: bold;
+    font-family: 'Modern No.20';
+}
+.wrap2 div-2{
+    color: rgba(5, 5, 5, 0.967);
+    font-size: 18px;
+    font-family: 'Microsoft PhagsPa';
+    text-align: justify;
+}
+.cls{
+    display: flex;
+}
+.bt1{
+    background-color: rgba(174, 242, 245, 0.845);
+    margin-top: 20px;
+    margin-left: 0px;
+    padding: 10px;
+    cursor:grab;
+}
+.bt2{
+    background-color: rgba(174, 242, 245, 0.845);
+    margin-top: 20px;
+    margin-left: 0px;
+    padding: 10px;
+    cursor:grab;
+}
+.bt3{
+    background-color: rgba(174, 242, 245, 0.845);
+    margin-top: 20px;
+    margin-left: 0px;
+    padding: 10px;
+    cursor:grab;
+}
+
+.sq{
+    display: flex;
+    gap: 390px;
+    padding-left: 270px;
+}
+.sq1{
+    text-align: justify;
+    width: 13.33%;
+   
+}
+.s1{
+    border: 2px solid black;
+    border-radius: 12px;
+    padding: 5px;
+}
+.sq2{
+    text-align: justify;
+    width: 12.33%;
+     
+}
+.s2{
+    border: 2px solid black;
+    border-radius: 12px;
+    padding: 5px;
+}
+
+.square{
+   padding-left: 270px;
+   display: flex;
+}
+.center1{
+    text-align: justify;
+    width: 75.33%;
+    
+}
+.c1{
+    border: 2px solid black;
+    border-radius: 12px;
+    padding: 5px;
+   
+}
+.c2{
+    border: 2px solid black;
+    border-radius: 12px;
+    padding: 5px;
+}
+.c3{
+    border: 2px solid black;
+    border-radius: 12px;
+    padding: 5px;
+}
+.c4{
+    border: 2px solid black;
+    border-radius: 12px;
+    padding: 5px;
+}
+.c5{
+    border: 2px solid black;
+    border-radius: 12px;
+    padding: 5px;
+}
+
+.center2{
+    text-align: justify;
+    width: 75.33%;
+   
+}
+.c6{
+    border: 2px solid black;
+    border-radius: 12px;
+    padding: 5px;
+
+}
+.c7{
+    border: 2px solid black;
+    border-radius: 12px;
+    padding: 5px;
+}
+
+
+
+.division2{
+    display: flex;
+}
+.wrap3 img{
+    max-width: 400px;
+    padding-left: 250px;
+    float: left;
+}
+.wrap4{
+    align-content: center;
+    padding-left: 70px;
+    padding-right: 200px;
+    text-align: justify;
+}
+.wrap4 div-3{
+    font-size: 22px;
+    font-weight: bold;
+    font-family: 'Modern No.20';
+}
+.wrap4 div-4{
+    color:rgba(5, 5, 5, 0.967);
+    font-size: 18px;
+    font-family: 'Microsoft PhagsPa';
+    text-align: justify;
+}
+.sq-1{
+    display: flex;
+    gap: 390px;
+    padding-left: 272px;
+}
+.sq3{
+    text-align: justify;
+    width: 13.33%;
+    
+}
+.s3{
+    border: 2px solid black;
+    border-radius: 12px;
+    padding: 5px;
+}
+.sq4{
+    text-align: justify;
+    width: 12.33%;
+    
+}
+.s4{
+    border: 2px solid black;
+    border-radius: 12px;
+    padding: 5px;
+}
+
+.square-1{
+   padding-left: 270px;
+   display: flex;
+}
+.center3{
+    text-align: justify;
+    width: 75.33%;
+    
+}
+.c8{
+    border: 2px solid black;
+    border-radius: 12px;
+    padding: 5px;
+}
+.c9{
+    border: 2px solid black;
+    border-radius: 12px;
+    padding: 5px;
+}
+.c10{
+    border: 2px solid black;
+    border-radius: 12px;
+    padding: 5px;
+}
+.c11{
+    border: 2px solid black;
+    border-radius: 12px;
+    padding: 5px;
+}
+.c12{
+    border: 2px solid black;
+    border-radius: 12px;
+    padding: 5px;
+}
+
+.center4{
+    text-align: justify;
+    width: 75.33%;
+   
+}
+.c13{
+    border: 2px solid black;
+    border-radius: 12px;
+    padding: 5px;
+
+}
+.c14{
+    border: 2px solid black;
+    border-radius: 12px;
+    padding: 5px;
+}
+.c15{
+    border: 2px solid black;
+    border-radius: 12px;
+    padding: 5px;
+}
+.c16{
+    border: 2px solid black;
+    border-radius: 12px;
+    padding: 5px;
+}
+.c17{
+    border: 2px solid black;
+    border-radius: 12px;
+    padding: 5px;
+}
+
+
+
+
+.division3{
+    display: flex;
+}
+.wrap5 img{
+    max-width: 400px;
+    padding-left: 250px;
+    float: left;
+}
+.wrap6{
+    align-content: center;
+    padding-left: 70px;
+    padding-right: 200px;
+    text-align: justify;
+}
+.wrap6 div-5{
+    font-size: 22px;
+    font-weight: bold;
+    font-family: 'Modern No.20';
+}
+.wrap6 div-6{
+    color: rgba(5, 5, 5, 0.967);
+    font-size: 18px;
+    font-family: 'Microsoft PhagsPa';
+    text-align: justify;
+}
+.sq-2{
+    display: flex;
+    gap: 542px;
+    padding-left: 270px;
+}
+.sq5{
+    text-align: justify;
+    width: 13.33%;
+   
+}
+.s5{
+    border: 2px solid black;
+    border-radius: 12px;
+    padding: 5px;
+}
+.sq6{
+    text-align: justify;
+    width: 12.33%;
+    
+}
+.s6{
+    border: 2px solid black;
+    border-radius: 12px;
+    padding: 5px;
+}
+
+.square-2{
+   padding-left: 270px;
+   display: flex;
+}
+.center5{
+    text-align: justify;
+    width: 75.33%;
+    
+}
+.c18{
+    border: 2px solid black;
+    border-radius: 12px;
+    padding: 5px;
+}
+.c19{
+    border: 2px solid black;
+    border-radius: 12px;
+    padding: 5px;
+}
+.c20{
+    border: 2px solid black;
+    border-radius: 12px;
+    padding: 5px;
+}
+.c21{
+    border: 2px solid black;
+    border-radius: 12px;
+    padding: 5px;
+}
+.c22{
+    border: 2px solid black;
+    border-radius: 12px;
+    padding: 5px;
+}
+.c23{
+    border: 2px solid black;
+    border-radius: 12px;
+    padding: 5px;
+}
+
+.center6{
+    text-align: justify;
+    width: 75.33%;
+    
+}
+.c24{
+    border: 2px solid black;
+    border-radius: 12px;
+    padding: 5px;
+
+}
+.c25{
+    border: 2px solid black;
+    border-radius: 12px;
+    padding: 5px;
+}
+.c26{
+    border: 2px solid black;
+    border-radius: 12px;
+    padding: 5px;
+}
+.c27{
+    border: 2px solid black;
+    border-radius: 12px;
+    padding: 5px;
+}
+.c28{
+    border: 2px solid black;
+    border-radius: 12px;
+    padding: 5px;
+}
+.c29{
+    border: 2px solid black;
+    border-radius: 12px;
+    padding: 5px;
+}
+
+
+

@@ -1,0 +1,82 @@
+/*#h1{
+    padding-top: 80px;
+    padding-left: 550px;
+    padding-right: 550px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}*/
+.log h1{
+    padding-left: 550px;
+    padding-right: 550px;
+
+}
+
+.containerl1{
+    display: flex;
+    gap: 0.2em;
+    padding-left: 700px;
+    text-decoration: none;
+    font-family:'Rockwell';
+}
+.containerl1 :link{
+    text-decoration: none;
+}
+.containerl1 :hover{
+    color: green;
+    text-decoration: none;
+}
+.containerl1 :active{
+    color: pink;
+    text-decoration: none;
+}
+.containerl1 #l{
+    color: black;
+}
+.login_image img{
+    padding-top: 30px;
+    padding-left: 700px;
+}
+.login_image h1{
+    padding-right: 10px;
+}
+.user{
+    padding-left: 620px;
+    /*display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;*/
+}
+.pass{
+    padding-left: 620px;
+}
+input{
+    margin: 10px;
+}
+.btn button{
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 725px;
+    cursor:grab;
+    
+}
+#h2{
+    padding-left: 30px;
+    color:rgba(56, 154, 196, 0.833);
+    font-family: Baskerville;
+    font-size: 20 px;
+    
+}
+.user label{
+    text-transform: uppercase;
+    color: rgb(19, 32, 37);
+    font-family: 'Garamond';
+    font-weight: bold;
+}
+.pass input{
+    margin-left: 16px;
+}
+.pass label{
+    text-transform: uppercase;
+    color: rgb(19, 32, 37);
+    font-family:  'Garamond';
+    font-weight: bold;
+}

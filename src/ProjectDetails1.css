@@ -1,0 +1,69 @@
+#h1{
+    padding-left: 0px;
+    padding-right: 0%;
+}
+.container6{
+    display: flex;
+    gap: 0.2em;
+    padding-left: 670px;
+    text-decoration: none;
+    font-family:'Rockwell';
+}
+.container6 :link{
+    text-decoration: none;
+}
+.container6 :hover{
+    color: green;
+    text-decoration: none;
+}
+.container6 :active{
+    color: pink;
+    text-decoration: none;
+}
+.container6 #p{
+    color: black;
+}
+.pd1{
+    display: flex;
+    gap: 2em;
+}
+#d1{
+    padding-left: 360px;
+}
+.text1 h2{
+    padding-right: 400px;
+    padding-left: 360px;
+}
+.text1 p{
+    text-align: justify;
+    padding-left: 360px;
+    padding-right: 320px;
+    font-size: 15px;
+    color: rgb(31, 30, 30);
+    font-family: 'Book Antiqua';
+}
+.text2{
+    display: flex;
+    gap: 3em;
+    padding-left: 360px;
+  
+}
+.text2 #y1,#y2{
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+.text3{
+    display: flex;
+    gap: 2.3em;
+    padding-left: 360px;
+    color: rgb(31, 30, 30);
+}
+#g1{
+    margin-left: 360px;
+    margin-top: 20px;
+    background-color:rgb(188, 184, 245);
+    padding: 10px;
+    border: 2px;
+}
+
+
