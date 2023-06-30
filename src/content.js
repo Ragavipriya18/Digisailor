@@ -13,7 +13,7 @@ function Content()
             <div className="home">
 
             <div className="hom1">
-                <h2>WE HELP CLIENTcS PIVOT FROM THINKING DIGITAL<br></br>
+                <h2>WE HELP CLIENTS PIVOT FROM THINKING DIGITAL<br></br>
 TO BEING DIGITAL.</h2><p>Thrbough interactive experiences that captivate customers, analytics that transform big data into even bigger actions and new mobile technologies that harness the power of IOT and Living Services.</p>
 
 <button id="l1"><Link to="/About">Read More</Link></button>
