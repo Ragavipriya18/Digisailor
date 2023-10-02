@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import "./Navbar.css"
 import {Link} from "react-router-dom";
 function Navbar (){
@@ -12,16 +12,6 @@ function Navbar (){
                 <img src="logo1.png" width="200" alt="Digisailor logo"></img>
         </div>
         
-
-        {/*<div class="menus">*/}      
-        
-            {/*<a href="content.js">HOME</a>
-                <a href="about.js">ABOUT US</a>
-                <a href="service.js">SERVICES</a>
-                <a href="works.js">OUR WORKS</a>
-                <a href="career.js">CAREERS</a>
-                <a href="contact.{/js">CONTACT</a>
-                <a href="operation.js">OPERATIONS</a>*/}
             <div className='menu'> 
                 <nav class="menus">
                     <ul>
